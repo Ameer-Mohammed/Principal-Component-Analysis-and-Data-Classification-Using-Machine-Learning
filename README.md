@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook project that demonstrates the use of
 
 ## Main Function 
 + Performed Principal Component Analysis (PCA) on the dataset to reduce the dimensionality of the data  
-+ Implemented various machine learning algorithms, such as Logistic Regression, Support Vector Machines (SVM), and Random Forest, to classify the date fruit dataset  
++ Implemented various machine learning algorithms, such as Gaussian Naive Bayes (GNB), K Nearest Neighbors (KNN), and Decision Trees (DT) to classify the date fruit dataset  
 + Evaluated the performance of the machine learning models using metrics like accuracy, precision, recall, and F1-score  
 + Visualized the results of the PCA and the classification models  
 
